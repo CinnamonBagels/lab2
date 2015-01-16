@@ -33,7 +33,15 @@ body {
      z-index: -1;	
 }
 
-.center {
-     margin-left: auto;
-     margin-right: auto;
+/*.project {
+     font-variant: small-caps;
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 20px;
+     width: 560px;
+
+}*/
+
+#project1 {
+     font-variant: small-caps;
 }
